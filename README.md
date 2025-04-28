@@ -19,6 +19,7 @@ Although this chatbot may not have exceptional cognitive skills or be state-of-t
 ## How to Use the Chatbot
  
 You can run Chatbot Through Terminal
+clone the chatbot file 
 ``` 
 cd College-Chatbot-Using-ML-and-NLP
 
